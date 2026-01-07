@@ -94,22 +94,8 @@ This project can be improved in the future by:
 
 ---
 
-# Sample Output (Text)
-
-Welcome to Number Guessing Game
-You have 5 attempts
-
-Enter your guess: 50
-Too high! Try a smaller number.
-
-Enter your guess: 20
-Too low! Try a larger number.
-
-Enter your guess: 42
-Congratulations! You guessed the correct number!
-
-yaml
-Copy code
+# Output Image 
+<img width="1630" height="664" alt="image" src="https://github.com/user-attachments/assets/e3192489-5cd2-46e3-aff8-5de1a7f873e0" />
 
 ---
 

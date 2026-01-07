@@ -67,20 +67,6 @@ This project can be improved in the future by:
 
 ---
 
-- Output Screenshots
-
-- Example 1: User Wins
-
-(attach screenshot of winning output here)
-
- - Example 2: User Loses
-
-(attach screenshot of losing output here)
-
-> To add screenshot in GitHub, upload PNG/JPG file and paste link here.
-
----
-
 ## How the Game Works (Working Principle)
 
 1. Program stores a secret number  
